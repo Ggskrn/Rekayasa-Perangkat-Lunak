@@ -1,0 +1,16 @@
+/sinar-baja-bumi/
+│── config.php
+│── auth.php
+│── projects.php
+│── users.php
+│── login.php
+│── index.php
+│── process_project.php
+│── process_user.php
+│── edit_project.php
+│── delete_project.php
+│── view_report.php
+│── edit_user.php
+│── delete_user.php
+├── uploads/ (folder untuk menyimpan file yang diunggah)
+└── database.sql
